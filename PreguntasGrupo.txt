@@ -1,1 +1,2 @@
 Autor: Manosalvas Jeferson
+Pregunta 1: Para que sirve git pull ?
