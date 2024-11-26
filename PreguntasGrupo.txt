@@ -26,3 +26,5 @@ Respuesta 4 Ramos : se utiliza el comando git checkout -b.
 Pregunta 5 Alexander : Porque fuimos en grupo de 3 ? JAJA
 
 Respuesta 5 Jeferson : nose esta mucho :(
+
+Respuesta 5 Ramos : Porque falte :'(
