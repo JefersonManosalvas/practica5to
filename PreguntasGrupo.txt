@@ -12,6 +12,9 @@ Respuesta Jeferson :permite identificar de forma unívoca las nuevas features o 
 Respuesra 2 Ramos: El versionamiento es una práctica fundamental en el desarrollo de software y la gestión de proyectos que permite llevar un control detallado de los cambios
 
 Pregunta 3 Alexander : Que versión es la mas actual del git?
+
 Respuesta Jeferson : La versión más reciente de Git es la 2.47.1
 
 Respuesta 3 Ramos : La versión más reciente de Git es la 2.47.1
+
+Pregunta 4 Alexander : Que comando se utiliza para generar una rama ?
