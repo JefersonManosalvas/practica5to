@@ -10,3 +10,5 @@ Pregunta 2 Alexander : Para que sirve el versionamiento?
 Respuesta Jeferson :permite identificar de forma unívoca las nuevas features o funciones, actualizaciones y/o los fixes corregidos
 
 Respuesra 2 Ramos: El versionamiento es una práctica fundamental en el desarrollo de software y la gestión de proyectos que permite llevar un control detallado de los cambios
+
+Pregunta 3 Alexander : Que versión es la mas actual del git ?
