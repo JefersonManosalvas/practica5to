@@ -1,1 +1,2 @@
 ¿para que sirve el git status?
+Alexander: El comando git status muestra el estado del directorio de trabajo y del área del entorno de ensayo.
