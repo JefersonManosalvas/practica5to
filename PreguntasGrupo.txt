@@ -1,2 +1,4 @@
 Autor: Manosalvas Jeferson
-Pregunta 1: Para que sirve git pull ?
+Pregunta 1 Bryan : Para que sirve git pull?
+Respuesta Jeferson : extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
+
