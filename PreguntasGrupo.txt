@@ -22,3 +22,5 @@ Pregunta 4 Alexander : Que comando se utiliza para generar una rama?
 Respuesta 4 Jeferson : se utiliza el comando git checkout -b.
 
 Respuesta 4 Ramos : se utiliza el comando git checkout -b.
+
+Pregunta 5 Alexander : Porque fuimos en grupo de 3 ? JAJA
